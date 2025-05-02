@@ -13,8 +13,8 @@ A continuación, hemos recopilado todos los artistas identificados en el paso an
 **...Organizando la información...**
 Tras la recopilación de datos, organizamos nuestras ideas y, por supuesto, la información!💡💭 Esto nos permitiría crear una BBDD estructurada en SQL para poder realizar las consultas que queramos📋 y responder a algunas curiosidades.
 
-**...SQL, SQL, ¿cuál es el artista con más álbumes del reino👑?**
-Llegados a este punto, como si se tratase de un espejo mágico, preguntamos a SQL lo que más nos intriga!🎉
+**...SQL, SQL, ¿cuál es el artista con más álbumes👑?**
+Llegados a este punto, preguntamos a SQL lo que más nos intriga!🎉
 
 
 ❔
