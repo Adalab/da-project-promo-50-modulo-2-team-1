@@ -15,7 +15,18 @@ Tras la recopilación de datos, organizamos nuestras ideas y, por supuesto, la i
 
 **...SQL, SQL, ¿cuál es el artista con más álbumes👑?**
 Llegados a este punto, preguntamos a SQL lo que más nos intriga!🎉
+En qué año se lanzaron más álbumes❔
+Cuál es la canción mejor valorada❔
+Cuál es el artista con más valoración (según promedio de escuchas por oyente de la canción más popular de cada artista)❔ 
+Cuál es la canción más valorada de los años pares❔
+Cuál es el artista con más lanzamientos en los últimos años❔
+Cual es el genero mejor valorado❔
+Cuál es el género que tiene más artistas❔
+Cuántos artistas tenemos en cada género❔
+Comparativa entre géneros por media de oyentes por canción🔍
+Cuál es la canción más escuchada de cada género❔
+Cuál es la canción más escuchada de cada género y el artista autor de la canción❔
+Top 5 artistas más reproducidos (por suma de playcount)🔍
+Cuáles son los artistas similares al artista con mayor valoración❔
+Cómo fue la evolución de oyentes por género❔
 
-
-❔
-🔍
